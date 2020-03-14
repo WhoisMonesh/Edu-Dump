@@ -1,4 +1,7 @@
 WHAT WE NEED
+
+
+
 •	Chrome 
 •	Python 
 •	Selenium 
